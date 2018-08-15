@@ -3,3 +3,5 @@ pink
 purple
 yellow
 orange
+green
+red
