@@ -1,4 +1,4 @@
-left1 brach! left1 branch!
+master brach! master branch!
 master#1
 master#2
 master#3
@@ -8,4 +8,4 @@ master#6x
 master#7x
 master#8x
 master#9x
-end of left1! end of left1!
+end of master! end of master!
