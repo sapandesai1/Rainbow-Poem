@@ -1,17 +1,11 @@
 master brach! master branch!
-adding left2! adding left2
 master#1
 master#2
 master#3
 master#4
 master#5
 master#6x
-left#6x
 master#7x
-left#7x
 master#8x
-left#8x
 master#9x
-left#9x
 end of master! end of master!
-end of left2! end of left2!
